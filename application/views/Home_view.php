@@ -6,7 +6,7 @@
     </head>
     <body dir="rtl" class="rtl" cz-shortcut-listen="true">
         <div>
-            <h1 class="h1">المهام النشطة</h1>
+            <h1 class="h1">المهام الحالية</h1>
             <table class="table arabic">
                 <thead>
                     <tr class="tr">
